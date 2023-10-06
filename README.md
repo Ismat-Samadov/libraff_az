@@ -1,11 +1,5 @@
-# libraff_az
-Image scraping from online book store
-
-
-```markdown
 # libraf_az Web Scraping Project
 
-![Project Image](images/project_image.png)
 
 ## Table of Contents
 - [Overview](#overview)
